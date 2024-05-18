@@ -1,7 +1,8 @@
-# Medium Blog Notebooks
+# Blogage
 
-This is a repository of research notebooks behind my posts on [MEDIUM](https://medium.com/@scaiverse).
+This is a repository of ML research notebooks and other resources behind my posts on [Medium](https://medium.com/@scaiverse).
 To be notified of my medium posts, **Subscribe [Here](https://medium.com/subscribe/@scaiverse)**.
+To check my other thoughts, **Check [ScaiBlogs](https://scaiverse.com/blogs)**.
 
 
 ## Posts ordered by most recently publishing date
