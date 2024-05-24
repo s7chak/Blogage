@@ -10,12 +10,13 @@ To check my other thoughts, **Check [ScaiBlogs](https://scaiverse.com/blogs)**.
 
 
 ## To get started
-git clone git@github.com:s7chak/medium-notebooks
-cd medium-notebooks
+git clone git@github.com:s7chak/Blogage
+cd Blogage
 
+Run below command to download required dependencies:
 
 ```
 pip install -r requirements.txt
 ```
 
-Run notebooks or view working behind visualizations on articles.
+Run notebooks and check ineer workings behind visualizations on articles.
